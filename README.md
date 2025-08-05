@@ -6,3 +6,7 @@ cd .git/hooks
 Aca ya puedes crear tu archivo pre-commit
 
 touch pre-commit
+
+Asegúrate de que el script tenga permisos para ejecutarse:
+
+chmod +x pre-commit
